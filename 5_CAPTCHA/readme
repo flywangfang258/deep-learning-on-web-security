@@ -1,0 +1,2 @@
+MNIST默认的特征提供方式是 784的一维向量：KNN, SVM, MLP, one_hot=False
+CNN二维向量 28*28 [-1, 28, 28, 1]
